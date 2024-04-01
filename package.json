@@ -1,0 +1,22 @@
+{
+  "name": "tafhim-astro-home",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.10",
+    "astro": "^4.0.7",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@astrojs/mdx": "^2.2.2",
+    "astro-auto-import": "^0.4.2",
+    "astro-mdx-code-blocks": "^0.0.6"
+  }
+}
